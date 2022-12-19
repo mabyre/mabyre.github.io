@@ -1,5 +1,7 @@
 I have the distinct impression of starting a silly job again
 
+<https://mabyre.github.io/>
+
 ## Github Pages
 
 * [Help on setting up help pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#about-content-in-jekyll-sites)
