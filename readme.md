@@ -1,6 +1,6 @@
 I have the distinct impression of starting a silly job again
 
-<https://mabyre.github.io/>
+[mabyre.github.io](https://mabyre.github.io/)
 
 ## Github Pages
 
@@ -16,3 +16,7 @@ I have the distinct impression of starting a silly job again
   * Post
 
 * [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+## Jekyll Post
+
+[Post](https://jekyllrb.com/docs/posts/)
