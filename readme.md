@@ -2,7 +2,7 @@ I have the distinct impression of starting a silly job again
 
 [mabyre.github.io](https://mabyre.github.io/)
 
-[post](https://mabyre.github.io/_post/)
+[post](https://mabyre.github.io/post/)
 
 ## Github Pages
 
