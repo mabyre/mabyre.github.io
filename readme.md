@@ -6,23 +6,27 @@ I have the distinct impression of starting a silly job again
 
 ## Github Pages
 
-Create a repository named **yourusername.github.io**. On setting tab set what is good for. Create a file **_config.yml**.
+Create a repository named **yourusername.github.io**. On setting tab set what is good for. Create a file **_config.yml** :
 
 * [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
-* [Help on setting up help pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#about-content-in-jekyll-sites)
+After that, help documentation is a little confused, two ways to continue :
 
-## Next Step
+[Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 
-* [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
-
-* [Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
-
-  * Page
-  * Post
+* Page
+* Post
+  * [Post](https://jekyllrb.com/docs/posts/)
 
 * [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
-## Help Jekyll Post
+  * [Configuring Jekyll in your GitHub Pages site](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#configuring-jekyll-in-your-github-pages-site)
 
-[Post](https://jekyllrb.com/docs/posts/)
+  I'am so disapointed because **_post** will never works cause :
+
+    By default, Jekyll doesn't build files or folders that:
+
+    are located in a folder called /node_modules or /vendor
+    start with _, ., or #
+    end with ~
+    are excluded by the exclude setting in your configuration file
