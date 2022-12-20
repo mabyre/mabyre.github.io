@@ -1,8 +1,8 @@
 I have the distinct impression of starting a silly job again
 
-[mabyre.github.io](https://mabyre.github.io/)
+**publication:** [mabyre.github.io](https://mabyre.github.io/)
 
-[posts](https://mabyre.github.io/post/home)
+try use [posts](https://mabyre.github.io/post/home)
 
 ## Github Pages
 
@@ -14,9 +14,8 @@ After that, help documentation is a little confused, two ways to continue :
 
 * [Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 
-  * Page
-  * Post
-    * [Post](https://jekyllrb.com/docs/posts/)
+  * [Pages](https://jekyllrb.com/docs/pages/)
+  * [Post](https://jekyllrb.com/docs/posts/)
 
 * [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
