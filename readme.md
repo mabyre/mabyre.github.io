@@ -2,7 +2,7 @@ I have the distinct impression of starting a silly job again
 
 **publication:** [mabyre.github.io](https://mabyre.github.io/)
 
-try use [posts](https://mabyre.github.io/post/)
+try use [posts](https://mabyre.github.io/_post/)
 
 ## Github Pages
 
