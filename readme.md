@@ -6,7 +6,7 @@ I have the distinct impression of starting a silly job again
 
 ## Github Pages
 
-Create a repository named '''yourusername.github.io'''. On setting tab set what is good for. Create a file '''_config.yml'''.
+Create a repository named **yourusername.github.io**. On setting tab set what is good for. Create a file **_config.yml**.
 
 * [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
