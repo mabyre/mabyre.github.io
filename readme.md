@@ -27,6 +27,9 @@ After that, help documentation is a little confused, two ways to continue :
       By default, Jekyll doesn't build files or folders that:
 
       are located in a folder called /node_modules or /vendor
+
       start with _, ., or #
+
       end with ~
+
       are excluded by the exclude setting in your configuration file
