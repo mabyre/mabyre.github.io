@@ -1,10 +1,12 @@
+[Markdown syntaxe](https://www.markdownguide.org/basic-syntax/)
+
 # My site with Github Pages & Jekyll
 
 I have the distinct impression of starting a silly job again.
 
-**origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
-
 **publication:** [mabyre.github.io](https://mabyre.github.io/)
+
+**origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
 try use [posts](https://mabyre.github.io/post/)
 
