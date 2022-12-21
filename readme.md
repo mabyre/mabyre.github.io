@@ -1,10 +1,12 @@
+# My site with Github Pages & Jekyll
+
 I have the distinct impression of starting a silly job again
 
 **publication:** [mabyre.github.io](https://mabyre.github.io/)
 
 try use [posts](https://mabyre.github.io/_post/)
 
-## Github Pages
+# Github Pages
 
 Create a repository named **yourusername.github.io**. On setting tab set what is good for. Create a file **_config.yml** :
 
@@ -32,3 +34,15 @@ After that, help documentation is a little confused, two ways to continue :
       end with ~
 
       are excluded by the exclude setting in your configuration file
+
+# Tools
+
+Randomly in my wanderings
+
+[YAML Validator](https://codebeautify.org/yaml-validator)
+
+# Samples
+
+* [Github Pages examples](https://github.com/collections/github-pages-examples)
+
+  * [artsy.github.io](https://github.com/artsy/artsy.github.io)
