@@ -2,9 +2,11 @@
 
 I have the distinct impression of starting a silly job again
 
+**origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
+
 **publication:** [mabyre.github.io](https://mabyre.github.io/)
 
-try use [posts](https://mabyre.github.io/_post/)
+try use [posts](https://mabyre.github.io/post/)
 
 # Github Pages
 
