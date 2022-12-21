@@ -1,12 +1,14 @@
 # My site with Github Pages & Jekyll
 
-I have the distinct impression of starting a silly job again
+I have the distinct impression of starting a silly job again.
 
 **origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
 **publication:** [mabyre.github.io](https://mabyre.github.io/)
 
 try use [posts](https://mabyre.github.io/post/)
+
+Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **ok**
 
 # Github Pages
 
