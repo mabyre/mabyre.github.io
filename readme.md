@@ -1,5 +1,3 @@
-[Markdown syntaxe](https://www.markdownguide.org/basic-syntax/)
-
 # My site with Github Pages & Jekyll
 
 I have the distinct impression of starting a silly job again.
@@ -11,6 +9,10 @@ I have the distinct impression of starting a silly job again.
 try use [posts](https://mabyre.github.io/post/)
 
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **ok**
+
+## Index
+
+[doc > home](https://mabyre.github.io/doc/home)
 
 # Github Pages
 
@@ -46,6 +48,8 @@ After that, help documentation is a little confused, two ways to continue :
 Randomly in my wanderings
 
 [YAML Validator](https://codebeautify.org/yaml-validator)
+
+[Markdown syntaxe](https://www.markdownguide.org/basic-syntax/)
 
 # Samples
 
