@@ -12,7 +12,8 @@ Fisrt of all you need to go to "Actions" tab to see if build/deploy process is *
 
 ## Index
 
-doc > [home](https://mabyre.github.io/doc/home)
+[doc](https://mabyre.github.io/doc)
+doc > [page1](https://mabyre.github.io/doc/page1)
 
 # Github Pages
 

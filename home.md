@@ -1,6 +1,10 @@
-Hye there this is the Home page
+Hye there this is the Home page of Github Pages
 
-doc > [home](./doc/home)
+trying to work with Jekyll
+
+[doc](./doc)
+
+doc > [page1](./doc/page1)
 
 [post1](./post/2022-12-09-noel.md)
 
