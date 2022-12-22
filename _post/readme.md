@@ -1,4 +1,4 @@
-## the readme for '_post_' directory
+## the readme for 'post' directory
 
 <ul>
   {% for post in site.posts %}

@@ -6,9 +6,9 @@ I have the distinct impression of starting a silly job again.
 
 **origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
-try use [posts](https://mabyre.github.io/post/)
+try use [posts](https://mabyre.github.io/_post)
 
-Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **ok**
+Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
 
 ## Index
 
