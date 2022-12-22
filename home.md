@@ -1,8 +1,10 @@
 Hye there this is the Home page
 
-[post1](2022-12-09-noel.md)
+doc > [home](./doc/home)
 
-[post1](./2022-12-09-noel.md)
+[post1](./post/2022-12-09-noel.md)
+
+[post1](./_post/2022-12-09-noel.md)
 
 <ul>
   {% for post in site.posts %}
