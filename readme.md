@@ -45,16 +45,16 @@ After that, help documentation is a little confused, two ways to continue :
 
       are excluded by the exclude setting in your configuration file
 
-# Tools
+# Samples
+
+* [Github Pages examples](https://github.com/collections/github-pages-examples)
+
+  * [artsy.github.io](https://github.com/artsy/artsy.github.io)
+
+# :keyboard: Activity: Tools
 
 Randomly in my wanderings
 
 [YAML Validator](https://codebeautify.org/yaml-validator)
 
 [Markdown syntaxe](https://www.markdownguide.org/basic-syntax/)
-
-# Samples
-
-* [Github Pages examples](https://github.com/collections/github-pages-examples)
-
-  * [artsy.github.io](https://github.com/artsy/artsy.github.io)
