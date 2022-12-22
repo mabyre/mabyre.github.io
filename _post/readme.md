@@ -1,4 +1,6 @@
-## the readme for post directory
+[home](../home)
+
+## Readme page for post directory
 
 [post1](./2022-12-09-noel)
 

@@ -1,12 +1,12 @@
-Hye there this is the Home page of Github Pages
+Hye there, this is the Home page of Github Pages with Jekyll
 
-trying to work with Jekyll
+here we are trying to work with Jekyll
 
 [doc](./doc)
 
 doc > [page1](./doc/page1)
 
-[post1](./post/2022-12-09-noel.md)
+[post](./_post)
 
 [post1](./_post/2022-12-09-noel.md)
 
