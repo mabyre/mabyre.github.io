@@ -14,6 +14,10 @@
   {% endfor %}
 </ul>
 
+{% for post in site.posts %}
+    * [{{ post.title}} ]({{ post.url}} )
+{% endfor %}
+
 <ul>
     {% for repository in site.github.public_repositories %}
     <li>
@@ -23,6 +27,5 @@
 </ul>
 
 {% for repository in site.github.public_repositories %}
-
-* [{{ repository.name }}]({{ repository.html_url }})
+    * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
