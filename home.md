@@ -8,7 +8,9 @@ doc > [page1](./doc/page1)
 
 [post](./_post)
 
-[post1](./_post/2022-12-09-noel.md)
+[christmas](./_post/2022-12-09-noel.md)
+
+[error](./error)
 
 <ul>
   {% for post in site.posts %}

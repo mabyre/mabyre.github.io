@@ -2,7 +2,9 @@
 
 ## Jekyll is an error
 
-Jekyll is a big error
+Jekyll is a big error, why use Jekyll ? Is the question I ask me now for hours.
+
+Ok now we have a usable way to navigate into site but this is by hand. Every support should be carry from Jekyll just don't work.
 
 <img style="margin: 10px" src="https://github.com/mabyre/mabyre.github.io/blob/master/images/error/2022-07-21_15h36_12.png" alt="Github Pages Settings" />
 

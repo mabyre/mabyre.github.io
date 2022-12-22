@@ -2,7 +2,7 @@
 
 I have the distinct impression of starting a silly job again.
 
-**publication:** [mabyre.github.io](https://mabyre.github.io/)
+**site publication:** [mabyre.github.io](https://mabyre.github.io/)
 
 **origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
