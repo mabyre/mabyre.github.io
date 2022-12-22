@@ -4,7 +4,7 @@
 
 Jekyll is a big error
 
-<img style="margin: 10px" src="https://github.com/mabyre/docs/blob/master/images/2022-12-01_18h56_17.png" alt="Github Pages Settings" />
+<img style="margin: 10px" src="https://github.com/mabyre/mabyre.github.io/blob/master/images/error/2022-07-21_15h36_12.png" alt="Github Pages Settings" />
 
 To get the Build :
 
