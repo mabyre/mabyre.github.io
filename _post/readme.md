@@ -14,13 +14,13 @@
   {% endfor %}
 </ul>
 
-<p>
-  {% for post in site.github.posts %}
+<ul>
+    {% for repository in site.github.public_repositories %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      [{{ repository.name }}]({{ repository.html_url }})
     </li>
   {% endfor %}
-</p>
+</ul>
 
 {% for repository in site.github.public_repositories %}
 
