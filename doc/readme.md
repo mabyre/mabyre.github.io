@@ -1,4 +1,4 @@
-## the readme for **doc** directory
+## the readme for doc directory
 
 [home](../home)
 

@@ -1,8 +1,3 @@
----
-theme: jekyll-theme-slate
-title:  "Welcome to Jekyll!"
----
-
 ## the readme for post directory
 
 [post1](./2022-12-09-noel)
