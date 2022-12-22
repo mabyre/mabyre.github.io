@@ -19,3 +19,7 @@ To get the Build :
 ## Display an image with stupid jekyll
 
 [My helpful screenshot](/images/error/2022-07-21_15h36_12.png)
+
+(/images/error/2022-07-21_15h36_12.png
+
+</images/error/2022-07-21_15h36_12.png>
