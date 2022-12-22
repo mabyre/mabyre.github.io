@@ -47,6 +47,10 @@ After that, help documentation is a little confused, two ways to continue :
       end with ~
 
       are excluded by the exclude setting in your configuration file
+  
+  - [GitHub Metadata](https://jekyll.github.io/github-metadata/site.github/)
+
+      Just not understandable
 
 ## Samples
 
