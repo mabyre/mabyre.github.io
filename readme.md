@@ -51,7 +51,7 @@ After that, help documentation is a little confused, two ways to continue :
 
   * [artsy.github.io](https://github.com/artsy/artsy.github.io)
 
-# :keyboard: Activity: Tools
+### :keyboard: Activity: Tools
 
 Randomly in my wanderings
 
