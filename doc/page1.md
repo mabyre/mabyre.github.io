@@ -1,4 +1,4 @@
-[home](https://mabyre.github.io/) > [doc](./) > page1
+[home](../home) > [doc](./) > page1
 
 # Hye there this is the page1 of **doc** directory
 
