@@ -24,8 +24,36 @@ Stupid Jekyll try to display an image
 
 [Error while building](/images/error/2022-07-21_15h36_12.png)
 
-![Error while building](/images/error/2022-07-21_15h36_12.png)
-
 (/images/error/2022-07-21_15h36_12.png)
 
 </images/error/2022-07-21_15h36_12.png>
+
+![Error while building](/images/error/2022-07-21_15h36_12.png)
+
+## Error 3
+
+Here you can see the famous message :
+
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
+                    No such file or directory @ dir_chdir - /github/workspace/docs
+
+With no solution at all
+
+![Error while building](/images/error/2022-07-21_16h02_29.png)
+
+## Error 4
+
+If you can't see your Jekyll site go to "Actions" tab.
+
+![Error while building](/images/error/2022-12-19_15h19_55.png)
+
+## No Error
+
+What you should see is something like this :
+
+![Error while building](/images/error/2022-12-22_15h58_45.png)
+
+Following by this while the process ending well  :
+
+![Error while building](/images/error/2022-12-22_15h52_06.png)
