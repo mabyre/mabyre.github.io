@@ -10,28 +10,31 @@ try use [posts](https://mabyre.github.io/_post)
 
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
 
+- [Samples](#samples)
+- [Tools](#tools)
+
 ## Index
 
 [doc](https://mabyre.github.io/doc) > [page1](https://mabyre.github.io/doc/page1)
 
 [error](https://mabyre.github.io/error)
 
-# Github Pages
+## Github Pages
 
 Create a repository named **yourusername.github.io**. On setting tab set what is good for. Create a file **_config.yml** :
 
-* [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
+- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
 After that, help documentation is a little confused, two ways to continue :
 
-* [Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
+- [Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 
-  * [Pages](https://jekyllrb.com/docs/pages/)
-  * [Post](https://jekyllrb.com/docs/posts/)
+  - [Pages](https://jekyllrb.com/docs/pages/)
+  - [Post](https://jekyllrb.com/docs/posts/)
 
-* [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+- [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
-  * [Configuring Jekyll in your GitHub Pages site](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#configuring-jekyll-in-your-github-pages-site)
+  - [Configuring Jekyll in your GitHub Pages site](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#configuring-jekyll-in-your-github-pages-site)
 
     I'am so disapointed because **_post** will never works cause :
 
@@ -45,13 +48,13 @@ After that, help documentation is a little confused, two ways to continue :
 
       are excluded by the exclude setting in your configuration file
 
-# Samples
+## Samples
 
-* [Github Pages examples](https://github.com/collections/github-pages-examples)
+- [Github Pages examples](https://github.com/collections/github-pages-examples)
 
-  * [artsy.github.io](https://github.com/artsy/artsy.github.io)
+  - [artsy.github.io](https://github.com/artsy/artsy.github.io)
 
-### :keyboard: Activity: Tools
+## Tools
 
 Randomly in my wanderings
 
