@@ -15,3 +15,7 @@ To get the Build :
 <img style="margin: 10px" src="https://github.com/mabyre/docs/blob/master/images/2022-07-21_15h36_12.png" alt="Error" />
 
 ## Error 2
+
+## Display an image with stupid jekyll
+
+[My helpful screenshot](/images/error/2022-07-21_15h36_12.png)
