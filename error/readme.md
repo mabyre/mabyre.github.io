@@ -34,9 +34,9 @@ Stupid Jekyll try to display an image
 
 Here you can see the famous message :
 
-To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
-  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
-                    No such file or directory @ dir_chdir - /github/workspace/docs
+> To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+> Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/style.scss':
+> No such file or directory @ dir_chdir - /github/workspace/docs
 
 With no solution at all
 
@@ -50,10 +50,10 @@ If you can't see your Jekyll site go to "Actions" tab.
 
 ## No Error
 
-What you should see is something like this :
+What you should see, is something like this :
 
 ![Error while building](/images/error/2022-12-22_15h58_45.png)
 
-Following by this while the process ending well  :
+Following by this while the process ending well :
 
 ![Error while building](/images/error/2022-12-22_15h52_06.png)
