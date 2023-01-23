@@ -19,6 +19,8 @@ Fisrt of all you need to go to "Actions" tab to see if build/deploy process is *
 
 [error](https://mabyre.github.io/error)
 
+[jump to docs](https://mabyre.github.io/docs/)
+
 ## Github Pages
 
 Create a repository named **yourusername.github.io**. On setting tab set what is good for. Create a file **_config.yml** :
