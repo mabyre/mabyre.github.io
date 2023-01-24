@@ -54,7 +54,17 @@ After that, help documentation is a little confused, two ways to continue :
 
       Just not understandable
 
-## Samples
+## Help on GitHub & Jekyll
+
+- [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+- [Help on GitHub Pages](https://docs.github.com/en/pages)
+
+- [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+- [About GitHub Pages & Jekyll fr](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll)
+
+## Samples usings of GitHub Pages & Jekyll
 
 - [Github Pages examples](https://github.com/collections/github-pages-examples)
 
