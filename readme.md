@@ -70,6 +70,12 @@ After that, help documentation is a little confused, two ways to continue :
 
   - [artsy.github.io](https://github.com/artsy/artsy.github.io)
 
+  > [artsy.github.io](https://artsy.github.io)
+
+  - [square.github.io](https://github.com/square/square.github.io)
+
+  > [square.github.io](https://square.github.io)
+
 ## Tools
 
 Randomly in my wanderings
