@@ -1,6 +1,3 @@
----
-title: 
----
 # My Web Site using Github Pages & Jekyll
 
 I have the distinct impression of starting a silly job again.
