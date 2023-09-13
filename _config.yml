@@ -4,5 +4,5 @@ description: Bookmark this to keep an eye on my project updates!
 include: _post
 
 plugins: 
-  -jekyll-github-metadata
-  -jekyll-menu
+  - jekyll-github-metadata
+  - jekyll-menu
