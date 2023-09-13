@@ -1,12 +1,15 @@
+---
+title: 
+---
 # My Web Site using Github Pages & Jekyll
 
 I have the distinct impression of starting a silly job again.
 
-**site de publication:** [mabyre.github.io](https://mabyre.github.io/)
+**Url de publication:** [https://mabyre.github.io/](https://mabyre.github.io/)
 
-**origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
+**Origin:** [https://github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
-try use [posts](https://mabyre.github.io/_post)
+Try use [posts](https://mabyre.github.io/_post)
 
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
 
