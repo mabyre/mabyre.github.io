@@ -1,8 +1,8 @@
-# My site with Github Pages & Jekyll
+# My Web Site using Github Pages & Jekyll
 
 I have the distinct impression of starting a silly job again.
 
-**site publication:** [mabyre.github.io](https://mabyre.github.io/)
+**site de publication:** [mabyre.github.io](https://mabyre.github.io/)
 
 **origin:** [github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
@@ -12,6 +12,14 @@ Fisrt of all you need to go to "Actions" tab to see if build/deploy process is *
 
 - [Samples](#samples)
 - [Tools](#tools)
+
+## Menu
+
+<ul>
+  {% for item in site.menu %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
 
 ## Index
 
