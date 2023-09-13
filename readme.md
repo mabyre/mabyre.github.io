@@ -10,7 +10,7 @@ Try use [posts](https://mabyre.github.io/_post)
 
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
 
-- [Samples](#samples)
+- [Samples usings of GitHub Pages & Jekyll](#Samples-usings-of-GitHub-Pages-&-Jekyll)
 - [Tools](#tools)
 
 ## Menu
@@ -76,13 +76,13 @@ After that, help documentation is a little confused, two ways to continue :
 
 - [Github Pages examples](https://github.com/collections/github-pages-examples)
 
-  - [artsy.github.io](https://github.com/artsy/artsy.github.io)
+  - [origine: artsy.github.io](https://github.com/artsy/artsy.github.io)
 
-  > [artsy.github.io](https://artsy.github.io)
+  > [published: artsy.github.io](https://artsy.github.io)
 
-  - [square.github.io](https://github.com/square/square.github.io)
+  - [origine: square.github.io](https://github.com/square/square.github.io)
 
-  > [square.github.io](https://square.github.io)
+  > [publiched: square.github.io](https://square.github.io)
 
 ## Tools
 
