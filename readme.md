@@ -71,6 +71,17 @@ After that, help documentation is a little confused, two ways to continue :
 - [About GitHub Pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
 - [About GitHub Pages & Jekyll fr](https://docs.github.com/fr/pages/setting-up-a-github-pages-site-with-jekyll)
+    - jekyll-coffeescript
+    - jekyll-default-layout
+    - jekyll-gist
+    - jekyll-github-metadata
+    - jekyll-optional-front-matter
+    - jekyll-paginate
+    - jekyll-readme-index
+    - jekyll-titles-from-headings
+    - jekyll-relative-links
+
+    >**stupid plugins that are unusefull**
 
 ## Samples usings of GitHub Pages & Jekyll
 
@@ -78,11 +89,11 @@ After that, help documentation is a little confused, two ways to continue :
 
   - [origine: artsy.github.io](https://github.com/artsy/artsy.github.io)
 
-  > [published: artsy.github.io](https://artsy.github.io)
+    > [published: artsy.github.io](https://artsy.github.io)
 
   - [origine: square.github.io](https://github.com/square/square.github.io)
 
-  > [publiched: square.github.io](https://square.github.io)
+    > [publiched: square.github.io](https://square.github.io)
 
 ## Tools
 

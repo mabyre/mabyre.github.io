@@ -2,7 +2,7 @@
 
 ## Jekyll is an error
 
-Jekyll is a big error, why use Jekyll ? Is the question I ask me now for hours.
+Jekyll is a big error, why use Jekyll ? Is the question I'm asking me now for hours.
 
 Ok now we have a usable way to navigate into site but this is by hand. Every support should be carry from Jekyll just don't work.
 
