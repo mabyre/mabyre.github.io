@@ -25,6 +25,16 @@ Fisrt of all you need to go to "Actions" tab to see if build/deploy process is *
   {% endfor %}
 </ul>
 
+## Pages
+
+<ul>
+  {% for page in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Index
 
 [doc](https://mabyre.github.io/doc) > [page1](https://mabyre.github.io/doc/page1)
