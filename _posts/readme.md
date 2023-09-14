@@ -14,7 +14,7 @@
 
 **1**
 
-{% for post in site._post %}
+{% for post in site._posts %}
 
 * [{{ post.title }}]({{ post.url }})
 {% endfor %}

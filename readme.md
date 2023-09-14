@@ -6,7 +6,7 @@ I have the distinct impression of starting a silly job again.
 
 **Origin:** [https://github.com/mabyre/mabyre.github.io](https://github.com/mabyre/mabyre.github.io)
 
-Try use [posts](https://mabyre.github.io/_post)
+Try use [posts](_posts)
 
 [Home for tests](home.md)
 

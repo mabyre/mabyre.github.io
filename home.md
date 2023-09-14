@@ -12,9 +12,9 @@ doc > [page1](./doc/page1)
 
 ## Posts
 
-[post](./_post)
+[Posst](./_posts)
 
-[christmas](./_post/2022-12-09-noel.md)
+[christmas](./_posts/2022-12-09-noel.md)
 
 ## Jekyll is an error
 
@@ -22,12 +22,12 @@ doc > [page1](./doc/page1)
 
 ## Look at list of posts
 
+**1**
+
 <ul>
-  {% for post in site._posts %}
+  {% for post in site.posts %}
     <li>
       [{{ post.title }}]({{ post.url }})
     </li>
   {% endfor %}
 </ul>
-
-you see nothing me either
