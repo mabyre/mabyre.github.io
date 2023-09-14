@@ -14,7 +14,7 @@
 
 **1**
 
-{% for post in site._posts %}
+{% for post in site.posts %}
 
 * [{{ post.title }}]({{ post.url }})
 {% endfor %}
@@ -37,7 +37,7 @@
 
 {% for post in site.posts %}
 
-* [{{ post.title}} ]({{ post.url}} )
+* [ {{ post.title }} ]( {{ post.url }} )
 {% endfor %}
 
 ---
