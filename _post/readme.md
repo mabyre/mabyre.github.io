@@ -6,6 +6,26 @@
 
 [post1](./2022-12-09-post1)
 
+[post2](./2022-12-09-post2)
+
+[post1.md](./2022-12-09-post1.md)
+
+## list of posts ?
+
+**1**
+
+<ul>
+    {% for post in site._post %}
+    <li>
+      [{{ post.title }}]({{ post.url }})
+    </li>
+  {% endfor %}
+</ul>
+
+---
+
+**2**
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -14,10 +34,18 @@
   {% endfor %}
 </ul>
 
+---
+
+**3**
+
 {% for post in site.posts %}
 
 * [{{ post.title}} ]({{ post.url}} )
 {% endfor %}
+
+---
+
+**4**
 
 <ul>
     {% for repository in site.github.public_repositories %}
@@ -26,6 +54,10 @@
     </li>
   {% endfor %}
 </ul>
+
+---
+
+**5**
 
 {% for repository in site.github.public_repositories %}
 
