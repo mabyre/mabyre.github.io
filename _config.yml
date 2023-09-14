@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Mabyre's page
 description: Bookmark this to keep an eye on my project updates!
-include: _post
+include: ["tech"]
 
 plugins: 
   - jekyll-github-metadata

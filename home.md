@@ -12,7 +12,7 @@ doc > [page1](./doc/page1)
 
 ## Posts
 
-[Posst](./_posts)
+[Post](./_posts)
 
 [christmas](./_posts/2022-12-09-noel.md)
 

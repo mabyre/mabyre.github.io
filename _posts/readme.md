@@ -10,7 +10,7 @@
 
 [post1.md](./2022-12-09-post1.md)
 
-## list of posts ?
+## List of posts ?
 
 **1**
 
