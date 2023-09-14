@@ -85,6 +85,8 @@ After that, help documentation is a little confused, two ways to continue :
 
     >**stupid plugins that are unusefull**
 
+  - [Jekyll docs variables](https://jekyllrb.com/docs/variables/)
+
 ## Samples usings of GitHub Pages & Jekyll
 
 - [Github Pages examples](https://github.com/collections/github-pages-examples)
