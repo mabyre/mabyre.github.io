@@ -10,7 +10,7 @@ Try use [posts](https://mabyre.github.io/_post)
 
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
 
-- [Samples usings of GitHub Pages & Jekyll](#Samples-usings-of-GitHub-Pages-&-Jekyll)
+- [Samples usings of GitHub Pages & Jekyll](#samples-usings-of-github-pages--jekyll)
 - [Tools](#tools)
 
 ## Menu
