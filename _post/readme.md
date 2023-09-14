@@ -14,13 +14,10 @@
 
 **1**
 
-<ul>
-    {% for post in site._post %}
-    <li>
-      [{{ post.title }}]({{ post.url }})
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site._post %}
+
+* [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ---
 
