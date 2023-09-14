@@ -5,4 +5,4 @@ include: _post
 
 plugins: 
   - jekyll-github-metadata
-  - jekyll-menu
+  - jekyll-paginate
