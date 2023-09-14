@@ -9,8 +9,7 @@
 **1**
 
 {% for post in site.tech %}
-
-* [{{ post.title }}]({{ post.url }})
+* [{{post.title}}]({{post.url}})
 {% endfor %}
 
 ---
