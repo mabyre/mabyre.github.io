@@ -16,7 +16,7 @@ Fisrt of all you need to go to "Actions" tab to see if build/deploy process is *
 ## Menu
 
 <ul>
-  {% for item in site.menu %}
+  {% for item in site.Menu %}
     <li><a href="{{ item.url }}">{{ item.title }}</a></li>
   {% endfor %}
 </ul>
