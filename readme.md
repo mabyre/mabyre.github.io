@@ -8,6 +8,8 @@ I have the distinct impression of starting a silly job again.
 
 Try use [posts](https://mabyre.github.io/_post)
 
+[Home for tests](home.md)
+
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
 
 - [Samples usings of GitHub Pages & Jekyll](#samples-usings-of-github-pages--jekyll)
@@ -17,7 +19,7 @@ Fisrt of all you need to go to "Actions" tab to see if build/deploy process is *
 
 <ul>
   {% for item in site.Menu %}
-    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    [{{ item.title }}]({{ item.url }})
   {% endfor %}
 </ul>
 

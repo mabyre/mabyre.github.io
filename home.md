@@ -23,9 +23,9 @@ doc > [page1](./doc/page1)
 ## Look at list of posts
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site._posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      [{{ post.title }}]({{ post.url }})
     </li>
   {% endfor %}
 </ul>
