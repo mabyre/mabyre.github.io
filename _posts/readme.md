@@ -1,6 +1,6 @@
 [home](../home)
 
-## Readme page for post directory
+# Readme page for post directory
 
 [christmas](./2022-12-09-noel)
 
