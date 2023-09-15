@@ -1,8 +1,12 @@
 theme: jekyll-theme-slate
 title: Mabyre's page
 description: Bookmark this to keep an eye on my project updates!
-include: ["_posts", "tech"]
+include: ["_posts", "_tech"]
 
 plugins: 
   - jekyll-github-metadata
   - jekyll-paginate
+
+collections:
+  tech:
+    output: true

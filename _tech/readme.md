@@ -34,3 +34,15 @@
 {% endfor %}
 
 ---
+
+**4**
+
+<ul>
+  {% for post in site.tech %}
+    <li>
+      <a href="{{ post.url }}">{{ post.name }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+---

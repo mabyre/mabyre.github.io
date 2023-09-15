@@ -8,7 +8,7 @@ I have the distinct impression of starting a silly job again.
 
 Try use [Posts](_posts)
 
-Try use [Tech](tech)
+Try use [Tech](_tech)
 
 [Home for tests](home.md)
 
