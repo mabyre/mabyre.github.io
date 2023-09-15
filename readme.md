@@ -1,6 +1,6 @@
 # My Web Site using Github Pages & Jekyll
 
-I have the distinct impression of starting a silly job again.
+I have the distinct impression of starting a silly job again but this time it seams to work
 
 **Url de publication:** [https://mabyre.github.io/](https://mabyre.github.io/)
 
@@ -12,7 +12,11 @@ Try use [Tech](_tech)
 
 [Home for tests](home.md)
 
+[Mabyre's docs with no Jekyll](https://mabyre.github.io/docs)
+
 Fisrt of all you need to go to "Actions" tab to see if build/deploy process is **Ok**
+
+## Summary
 
 - [Samples usings of GitHub Pages & Jekyll](#samples-usings-of-github-pages--jekyll)
 - [Tools](#tools)
@@ -76,7 +80,7 @@ After that, help documentation is a little confused, two ways to continue :
 
       Just not understandable
 
-## Help on GitHub & Jekyll
+## Help on GitHub Pages & Jekyll
 
 - [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
@@ -95,9 +99,13 @@ After that, help documentation is a little confused, two ways to continue :
     - jekyll-titles-from-headings
     - jekyll-relative-links
 
-    >**stupid plugins that are unusefull**
+    >**stupid plugins that are almost unusefull**
+  
+- [Jekyll docs variables](https://jekyllrb.com/docs/variables/)
 
-  - [Jekyll docs variables](https://jekyllrb.com/docs/variables/)
+- [Jekyll & GitHub Metadata](https://github.com/jekyll/github-metadata/tree/main/docs)
+
+    This link is an door open on the real cms world with making pages improvable ... ?
 
 ## Samples usings of GitHub Pages & Jekyll
 

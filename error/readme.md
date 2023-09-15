@@ -1,10 +1,26 @@
-[home](../home)
+# Jekyll is on error
 
-## Jekyll is an error
-
-Jekyll is a big error, why use Jekyll ? Is the question I'm asking me now for hours.
+Why use Jekyll ? Is the question I'm asking me now for days.
 
 Ok now we have a usable way to navigate into site but this is by hand. Every support should be carry from Jekyll just don't work.
+
+The misunderstanding with Jekyll came from the documentation, it's to hard at the begining with complex requirements like Installation with Ruby, RubyGems, GCC, Make and red message like :
+
+> If you are using Ruby version 3.0.0 or higher, step 5 may fail. You may fix it by adding webrick to your dependencies: bundle add webrick
+
+**You don't need all that !!!**
+
+If you use Jekyll within GitHub Pages all this is installed and correctly configured. So you can jump into the documentation:
+
+[Jekyll Docs](https://jekyllrb.com/docs/)
+
+directly to **Pages** and **Posts**.
+
+I am a very experienced developer and starting with Jekyll and GitHub Pages I was amazed by the complexity of this doc just to make a few html pages it was repulsive.
+
+On one hand you have GitHub Pages that leaves you with Jekyll and in the other hand you have Jekyll that restart from the begining.
+
+# Display an image with jekyll
 
 <img style="margin: 10px" src="https://github.com/mabyre/mabyre.github.io/blob/master/images/error/2022-07-21_15h36_12.png" alt="Github Pages Settings" />
 
@@ -18,9 +34,7 @@ To get the Build :
 
 ## Error 2
 
-## Display an image with stupid jekyll
-
-Stupid Jekyll try to display an image
+Jekyll try to display an image
 
 [Error while building](/images/error/2022-07-21_15h36_12.png)
 
@@ -57,3 +71,6 @@ What you should see, is something like this :
 Following by this while the process ending well :
 
 ![Error while building](/images/error/2022-12-22_15h52_06.png)
+
+---
+[home](../home)
